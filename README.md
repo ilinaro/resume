@@ -9,7 +9,7 @@
 
 - [dayjs](https://www.npmjs.com/package/dayjs)
 
-- [nextjs-progressbar](npm i nextjs-progressbar)
+- [nextjs-progressbar](https://www.npmjs.com/package/nextjs-progressbar)
 
 - [react-color](https://www.npmjs.com/package/react-color)
 
